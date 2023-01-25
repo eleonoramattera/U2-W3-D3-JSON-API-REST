@@ -1,0 +1,25 @@
+[
+  {
+    "marca": "Fiat",
+    "alimentazione": "benzina",
+    "colori": ["bianco", "nero", "blu", "rosso"],
+    "anno": 2010,
+    "modello": "Panda"
+  },
+
+  {
+    "marca": "Audi",
+    "alimentazione": "diesel",
+    "colori": ["arancione", "bianco", "grigio"],
+    "anno": 2005,
+    "modello": "Coupé"
+  },
+
+  {
+    "marca": "Mercedes",
+    "alimentazione": "diesel",
+    "colori": ["nero", "bianco", "rosso"],
+    "anno": 2007,
+    "modello": "EQE"
+  }
+]

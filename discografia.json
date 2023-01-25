@@ -1,0 +1,38 @@
+[
+  {
+    "titolo": "Abbey Road",
+    "artista": "The Beatles",
+    "anno": 1969,
+    "totaleTracce": 9,
+    "tracce": [
+      "Come Together",
+      "Something",
+      "Maxwell's Silver Hammer",
+      "Oh! Darling",
+      "Octopus's Garden",
+      "I Want You",
+      "Here Comes the Sun",
+      "Because",
+      "Il Medley"
+    ]
+  },
+
+  {
+    "titolo": "The Dark Side of The Moon",
+    "artista": "Pink Floyd",
+    "anno": 1973,
+    "totaleTracce": 10,
+    "tracce": [
+      "Speak to Me",
+      "Breathe",
+      "On the Run",
+      "Time + Breathe (Reprise)",
+      "The Great Gig in the Sky",
+      "Money",
+      "Us and Them",
+      "Any Colour You Like",
+      "Brain Damage",
+      "Eclipse"
+    ]
+  }
+]
